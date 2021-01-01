@@ -1,7 +1,5 @@
 /*
 
-/*
-
 PART 2 [SQL Queries]:
 
 Type the correct SQL query below every question:
